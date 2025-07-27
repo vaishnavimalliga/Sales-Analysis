@@ -28,3 +28,4 @@
   Excel Dashboard Design
 
   **Screenshot:**
+  https://github.com/vaishnavimalliga/Sales-Analysis/blob/main/Sales%20Analysis%20Screenshot.png
